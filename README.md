@@ -35,3 +35,8 @@ UI is professional and aspirational.
 GenAI features support recommendation and chatbot functionality.
 
 
+output:
+
+<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/5cf0db14-5b95-45c1-a46c-1fc62780abe8" />
+
+
