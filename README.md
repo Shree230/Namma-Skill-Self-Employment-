@@ -37,6 +37,5 @@ GenAI features support recommendation and chatbot functionality.
 
 output:
 
-<img width="861" height="572" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/e7dc1726-877b-4ab0-b167-669bad10c950" />
 
 
